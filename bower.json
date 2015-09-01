@@ -1,0 +1,21 @@
+{
+  "name": "superdesk-client",
+  "homepage": "https://github.com/superdesk/bower-superdesk-client",
+  "authors": [
+    "petr.jasek <petr.jasek@sourcefabric.org>"
+  ],
+  "description": "Superdesk Client bower/npm distribution repository",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:superdesk/bower-superdesk-client.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
